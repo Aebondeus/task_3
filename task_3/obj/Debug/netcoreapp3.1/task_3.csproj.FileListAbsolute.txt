@@ -1,0 +1,13 @@
+D:\ProgShit\task_3\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.exe
+D:\ProgShit\task_3\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.deps.json
+D:\ProgShit\task_3\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.runtimeconfig.json
+D:\ProgShit\task_3\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.runtimeconfig.dev.json
+D:\ProgShit\task_3\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.dll
+D:\ProgShit\task_3\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.pdb
+D:\ProgShit\task_3\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.csprojAssemblyReference.cache
+D:\ProgShit\task_3\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.AssemblyInfoInputs.cache
+D:\ProgShit\task_3\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.AssemblyInfo.cs
+D:\ProgShit\task_3\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.csproj.CoreCompileInputs.cache
+D:\ProgShit\task_3\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.dll
+D:\ProgShit\task_3\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.pdb
+D:\ProgShit\task_3\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.genruntimeconfig.cache

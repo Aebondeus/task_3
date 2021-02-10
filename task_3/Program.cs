@@ -2,17 +2,19 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Security.Cryptography;
+using System.Linq;
 
 namespace task_3
 {
     class Program
     {
         static void Main(string[] args)
-        {
-/*            string[] args = { "rock", "paper", "sciccors", "lizard", "Spock" };*/
-            if (args.Length % 2 == 0 || args.Length <= 1)
+        {            
+            if (args.Length % 2 == 0 || args.Length <= 1 || args.Length != args.Distinct().Count())
             {
-                Console.WriteLine("NumberOfMoves mistake! Number of moves must be odd and >1");
+                Console.WriteLine("Something wrong! Check all the rules and launch it again!\n" +
+                    "1. Number of moves must be odd and > 1\n2. All moves must be unique\n" +
+                    "Try 'dotnet run 1 2 3' or 'dotnet run rock paper scissors lizard Spock'");
             }
             else
             {
